@@ -15,10 +15,10 @@
 </head>
 <body class="bg-white">
     <header class="border-b border-gray-200">
-        <nav class="container mx-auto px-4 py-4">
+        <nav class="container mx-auto px-4 py-6">
             <div class="flex justify-between items-center">
-                <a href="index.php" aria-label="Home" class="text-3xl font-bold font-montserrat tracking-wider text-gray-800 hover:text-gray-900 transition-colors">
-                    LYNCE
+                <a href="index.php" aria-label="Home" class="hover:opacity-80 transition-opacity">
+                    <img src="https://jaxxy.space/botop/logolynce.png" alt="LYNCE" class="h-16 object-contain" loading="lazy">
                 </a>
                 <div class="space-x-8">
                     <a href="index.php" class="font-inter text-sm text-gray-700 hover:text-black transition-colors">HOME</a>
