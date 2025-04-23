@@ -17,7 +17,9 @@
     <header class="border-b border-gray-200">
         <nav class="container mx-auto px-4 py-4">
             <div class="flex justify-between items-center">
-                <a href="index.php" class="font-montserrat text-3xl font-light tracking-widest text-black">LYNCE</a>
+                <a href="index.php" aria-label="Home" class="text-3xl font-bold font-montserrat tracking-wider text-gray-800 hover:text-gray-900 transition-colors">
+                    LYNCE
+                </a>
                 <div class="space-x-8">
                     <a href="index.php" class="font-inter text-sm text-gray-700 hover:text-black transition-colors">HOME</a>
                     <a href="catalog.php" class="font-inter text-sm text-gray-700 hover:text-black transition-colors">CATALOG</a>
